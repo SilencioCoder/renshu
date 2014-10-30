@@ -1,0 +1,22 @@
+.box {
+    border:solid 1px black;
+    padding: 5px 10px 5px 10px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.container {
+    width: 100%;
+    padding: 100px 0px;
+}
+
+td {
+    height: 100px;
+    width: 100px;
+    border: solid 1px black;
+    font-family: sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
